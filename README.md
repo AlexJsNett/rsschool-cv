@@ -1,3 +1,5 @@
 # rsschool-cv
 
-CV: https://alexjsnett.github.io/rsschool-cv/cv
+CV (Markdown): https://alexjsnett.github.io/rsschool-cv/cv
+
+CV (HTML page): https://alexjsnett.github.io/rsschool-cv/
