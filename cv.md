@@ -1,8 +1,15 @@
 # Oleksii Gryshchenko
 
-**Frontend Engineer | React | Next.js | TypeScript**
+**Frontend Engineer \| React \| Next.js \| TypeScript**
+
+<table>
+<tr>
+<td width="200" markdown="1">
 
 <img src="assets/photo.png" alt="Oleksii Gryshchenko" width="200" />
+
+</td>
+<td valign="top" markdown="1">
 
 ## Contact
 
@@ -11,6 +18,10 @@
 - ✈️ Telegram: [@alexdjnett](https://t.me/alexdjnett)
 - 🎮 Discord: oleksiygrishenko
 - 🐙 GitHub: [github.com/AlexJsNett](https://github.com/AlexJsNett)
+
+</td>
+</tr>
+</table>
 
 ## About Me
 
